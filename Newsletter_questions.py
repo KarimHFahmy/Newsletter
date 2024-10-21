@@ -7,7 +7,7 @@ from docx import Document
 import io
 
 # Initialize OpenAI client
-client = OpenAI(api_key="sk-CpWU7m6jtBCjnsE8P48M8xhvpStdMRY6wC72O1JJ3wT3BlbkFJzYkn3F1MX-tfNxq4i7Y-dcCi-QFPa4XtoA0_Sn8RkA")
+client = OpenAI(api_key="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")
 
 # Define the sections and their corresponding placeholders
 SECTIONS = {
